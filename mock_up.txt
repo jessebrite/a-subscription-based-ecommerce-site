@@ -1,0 +1,3 @@
+1. when the category field is not selected, it throws an exception
+2. Tweak session time-out to affect inactivity - *FIXED
+3. Make sure nothing is added to DB when there's an error in the add_page - *FIXED
